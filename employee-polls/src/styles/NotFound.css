@@ -1,0 +1,11 @@
+.director{
+    color: white;
+}
+
+.director:hover {
+    cursor: pointer;
+}
+
+.not-found-page {
+    padding: 20px;
+}

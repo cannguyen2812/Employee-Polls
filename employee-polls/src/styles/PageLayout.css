@@ -1,0 +1,45 @@
+.list-nav {
+    display: flex;
+}
+
+.list-nav li {
+    margin-right: 20px;
+    
+} 
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: brown;
+}
+
+.nav-section {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.active-nav  {
+    color: red;
+}
+
+.logged-avatar {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.line {
+    width: 100%;
+    height: 2px;
+    background-color: azure;
+    margin-bottom: 10px
+}
+
+.nav-active {
+    color: white;
+}

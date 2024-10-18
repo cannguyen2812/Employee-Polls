@@ -1,0 +1,27 @@
+.answer-options {
+    display: flex;
+    justify-content: center;
+}
+
+.option {
+    margin-right: 10px;
+    border: 1px solid;
+    padding: 25px;
+    border-radius: 40px;
+}
+
+.option:hover {
+    background-color: #902a2a;
+}
+
+.active {
+    background-color: #902a2a;
+}
+
+.question-detail-page {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

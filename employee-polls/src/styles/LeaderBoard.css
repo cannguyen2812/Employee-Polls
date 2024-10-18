@@ -1,0 +1,38 @@
+.leader-board-page {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.center-data-table {
+    text-align: center;
+}
+
+table {
+    border: 1px solid;
+}
+
+thead tr th {
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+}
+
+tbody tr td {
+    margin: 10px 0 10px 0;
+}
+
+thead tr th:last-child {
+    border-right: none;
+}
+
+.image-table {
+    width: 45px;
+    height: 43px;
+    object-fit: cover;
+    border-radius: 50%
+}
+
+.user-data {
+    margin-left: 10px;
+}
+

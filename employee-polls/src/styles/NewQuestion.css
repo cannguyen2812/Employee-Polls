@@ -1,0 +1,26 @@
+.input-field {
+    width: 1000px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.new-question-page {
+    text-align: center;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+.btn-submit {
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: mintcream;
+}
+
+.btn-submit:hover {
+    background-color: rgb(23, 47, 82)!important;
+    color: white;
+}

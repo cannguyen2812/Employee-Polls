@@ -1,0 +1,43 @@
+ul {
+    list-style: none;
+}
+.home-page {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list-nav {
+    display: flex;
+}
+
+.list-nav li {
+    margin-right: 20px;
+    
+} 
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: brown;
+}
+
+.nav-section {
+    text-decoration: none;
+}
+
+.active-nav  {
+    color: red;
+}
+
+.question-section {
+    height: 70%;
+    width: fit-content;
+    min-width: 40%;
+    max-width: 50%;
+    background-color: #2c2c46;
+    border-radius: 26px;
+    padding: 10px;
+}
